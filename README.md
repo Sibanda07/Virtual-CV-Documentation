@@ -40,7 +40,7 @@ This virtual CV includes:
 - Location: Potchefstroom, Silverwood Apartment Complex  
 - Phone: +27 747 315 841  
 - Email: [michycsibz07@gmail.com](mailto:michycsibz07@gmail.com)
-
+- LinkedIn Profile: [LinkedIn Profile](https://www.linkedin.com/in/michel-sibanda-5b88952b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ---
 
 ## 🛠 Technologies Used
@@ -63,7 +63,5 @@ This virtual CV includes:
 ## 💬 Purpose & Reflection
 
 This project demonstrates my ability to combine design principles, responsive layout techniques, and dynamic content handling into a cohesive digital presence.  
-It also reflects my desire to present myself authentically and professionally as I pursue opportunities in IT and cybersecurity.
-
-Feel free to explore the live site and reach out for collaboration or feedback!
+It also reflects my desire to present myself authentically and professionally as I pursue opportunities in IT and cybersecurity.Feel free to explore the live site. 
 
